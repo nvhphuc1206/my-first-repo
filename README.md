@@ -1,6 +1,6 @@
-# This is a large heading
+# Nguyen Vo Hoang Phuc 
 
-## This is a smaller heading
+## Writing README
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
@@ -18,9 +18,7 @@ A local *habitation* and a **name**.
 Here is `some code` in the middle of a sentence.
 
 ```
-This is
-a block
-of code
+Hello
 ```
 
 
